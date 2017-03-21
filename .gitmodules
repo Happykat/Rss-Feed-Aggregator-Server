@@ -1,0 +1,3 @@
+[submodule "Rss-Feed-Aggregator-Web"]
+	path = Rss-Feed-Aggregator-Web
+	url = https://github.com/Happykat/Rss-Feed-Aggregator-Web
